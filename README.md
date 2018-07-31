@@ -20,9 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-'''ruby
+```ruby
 MdbViewTool::Renderer.copyright 'Maarten De Baecke', 'All rights reserved'
-'''
+```
 
 ## Development
 
